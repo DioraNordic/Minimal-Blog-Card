@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Minimal Blog Card} | devChallenges</h1>
+<h1 align="center"> Minimal Blog Card | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/minimal-blog-card" target="_blank">Minimal Blog Card</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="#">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/DioraNordic/Minimal-Blog-Card">
       Solution
     </a>
     <span> | </span>
@@ -54,8 +54,8 @@ I learned how to properly use display: flex,  border-radius and proper way to ca
 
 ### Useful resources
 
-
-- FreeCodeCamp(https://www.freecodecamp.org/) - This platform provided useful information 
+- [FreeCodeCamp](https://www.freecodecamp.org/) - This platform provided useful information 
+- [devChallenges.io](https://www.devchallenges.io) - The platform that provided the challenge.
 <!--
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 -->
@@ -84,5 +84,4 @@ Thanks to devChallenges.io for the challenge
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@DioraNordic](https://github.com/DioraNordic)
